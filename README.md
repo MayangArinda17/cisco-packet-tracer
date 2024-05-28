@@ -27,5 +27,10 @@ Pertama klik router 1 lalu buka CLI
 
 
 
+setelah itu 
+
+
+
+
 
 
